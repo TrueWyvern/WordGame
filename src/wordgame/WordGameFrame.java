@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ /* 11/05/2018
+ * Aisik Pilote
+ * madlib program
+ * used to create a madlib like program where you can add to the word array and remove them aswell
  */
 
 package wordgame;
